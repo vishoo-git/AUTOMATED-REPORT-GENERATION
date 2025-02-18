@@ -36,3 +36,7 @@ Basic statistical analysis is performed using pandas functions such as:
 mean(): To calculate the average value of each column.
 sum(): To calculate the total sum of the values in each column.
 describe(): To provide a detailed statistical summary (including measures like standard deviation, min, max, and quartiles).
+
+OUTPUT
+
+![Image](https://github.com/user-attachments/assets/0a31ee0f-5c56-430b-8cfd-fb3fafda8c3c)
